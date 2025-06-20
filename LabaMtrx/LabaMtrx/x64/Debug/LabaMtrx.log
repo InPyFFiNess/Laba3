@@ -1,0 +1,6 @@
+﻿  functions.cpp
+D:\C++\LabaMtrx\LabaMtrx\functions.cpp(103,22): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+D:\C++\LabaMtrx\LabaMtrx\functions.cpp(121,22): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  LabaMtrx.vcxproj -> D:\C++\LabaMtrx\x64\Debug\LabaMtrx.exe
